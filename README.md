@@ -1,4 +1,4 @@
 # profile
 Name: Kafka;
-Major:psychology;
+Major: psychology;
 Task: reading,writing and thinking.
