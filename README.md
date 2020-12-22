@@ -1,4 +1,2 @@
 # profile
-Name: Kafka;
-Major: psychology;
-Task: reading,writing and thinking.
+应用心理学专业，硕士研究生。
